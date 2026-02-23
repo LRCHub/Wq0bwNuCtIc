@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "トリル",
+  "base_artist": "Aimer",
+  "createdAt": "2026-02-23T04:52:38.413817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トリル",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_トリル_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トリル -starless night ver.-",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_トリル_-starless_night_ver.-_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トリル (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_トリル_(_Walpurgisnacht__Live_at_TOKYO_GARDEN_THEATER)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トリル -starless night ver.-",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_トリル_-starless_night_ver.-_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "trill\u001fトリル",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_trill_トリル_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トリル / trill",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_トリル___trill_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トリル",
+      "artist": "エメ Aimer",
+      "has_synced": true,
+      "path": "select/07_トリル_エメ_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トリル",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_トリル_Aimer.txt"
+    }
+  ]
+}
